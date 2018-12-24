@@ -64,4 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_onsemi_cat24c64_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_onsemi_cat24c64_eeprom.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_ov8865.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_ov8865.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_s5k2m8sx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_s5k2m8sx.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib/libois_bu24218gwl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libois_bu24218gwl.so
+    vendor/zuk/z2_row/proprietary/vendor/lib/libois_bu24218gwl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libois_bu24218gwl.so \
+	vendor/zuk/z2_row/proprietary/vendor/lib/sensors.maxim-bio.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.maxim-bio.so \
+	vendor/zuk/z2_row/proprietary/vendor/lib64/sensors.maxim-bio.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.maxim-bio.so
